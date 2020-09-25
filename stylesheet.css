@@ -36,3 +36,9 @@ footer p{
     padding-left: 10px;
     padding-top: 10px;
 }
+
+#date{
+    position: absolute;
+    font-family: arial;
+    color: orange;
+}
