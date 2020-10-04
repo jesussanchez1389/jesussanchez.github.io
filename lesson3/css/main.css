@@ -149,10 +149,14 @@ th, td{
     font-weight: 400;
 }
 .header{
+	font-size: 2rem;
+	font-weight: bold;
     background-color: #bed;
     padding: 0.5em;
 }
 .heading{
+	font-size: 1.5rem;
+	font-weight: 400;
     color: #536878;
 }
 .link{
